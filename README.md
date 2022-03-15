@@ -17,6 +17,10 @@ Login to Near Testnet
 
     near login
 
+NOTE: If you need to, install the Near CLI
+
+    npm install near-cli
+
 ## Fourth 
 Install dependencies
 
